@@ -1,0 +1,127 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+span{
+	padding: 3px;
+	background-color: #e31f54;
+	float: left;
+	cursor: pointer;
+	display: none;
+}
+
+.cg p{
+	background: #cad001;
+}
+.t{
+	display: none;
+}
+.fadein span{
+	display: none;
+}
+.fadein p {
+    position: relative;
+    width: 400px;
+    height: 90px;
+  }
+  .fadein {
+    position: absolute;
+    width: 400px;
+    height: 65px;
+    font-size: 36px;
+    text-align: center;
+    color: yellow;
+    background: red;
+    padding-top: 25px;
+    top: 0;
+    left: 0;
+    display: none;
+  }
+
+  .slide-jq{
+  	margin-top: 20px;
+  }
+
+#panel, #flip {
+  	padding: 5px;
+  	text-align: center;
+  	background-color: #e5aaff;
+  	border: solid 1px #c3c3ff;
+  	cursor: pointer;
+}
+
+#panel {
+  	padding: 50px;
+  	display: none;
+}
+
+#panel1, #flip1 {
+  	padding: 5px;
+  	text-align: center;
+  	background-color: #e5aaff;
+  	border: solid 1px #c3c3ff;
+  	cursor: pointer;
+}
+
+#panel1 {
+  	padding: 50px;
+}
+
+#panel2, #flip2 {
+  padding: 5px;
+  text-align: center;
+  background-color: #e5eecc;
+  border: solid 1px #c3c3c3;
+  cursor: pointer;
+}
+
+#panel2 {
+  padding: 50px;
+  display: none;
+}
+
+.animation{
+	padding-top: 50px;
+	background:#98bf21;
+	height:100px;
+	width:100px;
+	position:absolute;
+}
+
+.animation1{
+	background:#98bf21;
+	height:100px;
+	width:100px;
+	position:absolute;
+}
+
+.animation2{
+	background:#98bf21;
+	height:100px;
+	width:100px;
+	position:absolute;
+}
+
+.animation3{
+	background:#98bf21;
+	height:100px;
+	width:100px;
+	position:absolute;
+}
+.animates2, .animates3{
+	margin-top: 150px;
+}
+.animation4{
+	background:#98bf21;
+	height:100px;
+	width:100px;
+	position:absolute;"
+}
+
+.animation5{
+	background:#98bf21;
+	height:100px;
+	width:200px;
+	position:absolute;
+}
